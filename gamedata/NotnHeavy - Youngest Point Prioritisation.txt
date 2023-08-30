@@ -1,0 +1,24 @@
+"Games"
+{
+    "tf"
+    {
+        "Offsets"
+        {
+            "CTFPointManager::ShouldCollide()"
+            {
+                "windows"   "202"
+                "linux"     "203"
+            }
+            "CTFPointManager::GetRadius()"
+            {
+                "windows"   "214"
+                "linux"     "215"
+            }
+            "CTFPointManager::OnCollide()"
+            {
+                "windows"   "203"
+                "linux"     "204"
+            }
+        }
+    }
+}
